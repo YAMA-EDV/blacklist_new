@@ -1,0 +1,23 @@
+#######################################
+###YAMA Industrials, Inc. 2018#########
+###Protection Series List-new##########
+#######################################
+#Daily and Misc adds
+
+
+#Added 5/31/2018
+#cyren web security diagnostic
+www.cyren-wsd.xyz
+stmarylebone.org
+docusign.someanswers.net
+laykni.com
+nolimt.org
+morinsurface.com
+#shieldtest.com from mydigitalshield.com
+ishieldu.com
+cybrarro.com
+www.cybrarro.com
+#Added 6/1/2018 from Yama Threat Intelligence
+q.dreniq.com
+
+
